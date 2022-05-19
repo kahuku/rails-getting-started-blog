@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 # rails-getting-started-blog
 
 First project to learn Ruby on Rails!
 https://guides.rubyonrails.org/v7.0/getting_started.html
-=======
-# README
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
@@ -28,4 +25,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
->>>>>>> c1000fb (initial commit)
