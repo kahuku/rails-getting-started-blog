@@ -1,3 +1,4 @@
 # rails-getting-started-blog
 
-https://guides.rubyonrails.org/v5.1/getting_started.html
+First project to learn Ruby on Rails!
+https://guides.rubyonrails.org/v7.0/getting_started.html
